@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <div>jenkins test commit2</div>
+    <div>jenkins test commit3</div>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
