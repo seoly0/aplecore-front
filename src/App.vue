@@ -3,6 +3,7 @@
     <div>김영서 정처기 실기 떨어짐</div>
     <div>아아아아악!!!</div>
     <div>오와아아아ㅏㄱ</div>
+    <div>dmdmdmddm</div>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
