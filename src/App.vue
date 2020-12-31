@@ -5,6 +5,7 @@
     <div>오와아아아ㅏㄱ</div>
     <div>dmdmdmddm</div>
     <div>정신 나갈 것 같다</div>
+    <div>정신 나갈 것 같다</div>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
