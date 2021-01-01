@@ -1,9 +1,5 @@
 <template>
   <div id="nav">
-    <div>김영서 정처기 실기 떨어짐</div>
-    <div>아아아아악!!!</div>
-    <div>오와아아아ㅏㄱ</div>
-    <div>dmdmdmddm</div>
     <div>정신 나갈 것 같다</div>
     <div>정신 나갈 것 같다</div>
     <div>정신 나갈 것 같다</div>
